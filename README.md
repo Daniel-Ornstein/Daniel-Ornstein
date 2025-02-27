@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daniel-Ornstein
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R and SQL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data Science, Data Analysis, and Data Engineering
+- 🌱 I’m currently learning Python, Machine Learning, SQL, R, Statistics, and Data Visulization
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ornstein.daniel@gmail.com
 
 <!---
